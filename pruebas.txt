@@ -1,2 +1,5 @@
 fichero con contenido 
 +contenido
++contenido 2
+
+linea metida que voy a quitar despues

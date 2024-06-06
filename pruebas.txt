@@ -1,2 +1,1 @@
 fichero con contenido 
-+contenido

@@ -1,1 +1,2 @@
 fichero con contenido 
++contenido

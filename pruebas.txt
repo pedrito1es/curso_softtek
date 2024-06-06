@@ -1,1 +1,5 @@
 fichero con contenido 
+<<<<<<< HEAD
+=======
++contenido
+>>>>>>> parent of 4996d09 (linea que he  metido y que no quiero despues)
